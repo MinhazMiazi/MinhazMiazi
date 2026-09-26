@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mihaz Miazi
+# 👋 Hi, I'm Minhaz Miazi
 
-### 🎓 CSE Student | 💻 Programmer | 🚀 Lifelong Learner
+### 🎓 CSE Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner
 
 I'm a **Computer Science & Engineering student at Daffodil International University (DIU)**.
 
@@ -64,18 +64,6 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 
 ---
 
-## 📂 Featured Projects
-
-> 🚧 I'm currently building my project portfolio. More projects will be added soon!
-
-| Project | Description | Technology |
-|---|---|---|
-| 🔹 Coming Soon | My upcoming programming project | C / C++ |
-| 🔹 Coming Soon | My upcoming Python project | Python |
-| 🔹 Coming Soon | My upcoming Java project | Java |
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Strengthen C & C++ fundamentals
@@ -91,7 +79,7 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/MihazMiazi">
+  <a href="https://github.com/MinhazMiazi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -101,7 +89,3 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 ### 💡 "Keep learning. Keep building. Keep improving."
 
 ⭐ Thanks for visiting my profile!
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
