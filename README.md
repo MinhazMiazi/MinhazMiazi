@@ -103,5 +103,5 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 ⭐ Thanks for visiting my profile!
 
 <p align="center">
-  <b>Made with ❤️ by Mihaz Miazi</b>
+  <b>Thanks for visiting my profile!</b>
 </p>
