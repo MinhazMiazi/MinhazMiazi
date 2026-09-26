@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Minhaz Miazi
+## Hi 👋 I'm Minhaz Miazi
 
 <!--
 **MinhazMiazi/MinhazMiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
