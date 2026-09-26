@@ -12,7 +12,6 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 
 - 🎓 Studying **B.Sc. in Computer Science & Engineering**
 - 🏫 **Daffodil International University**
-- 📚 Currently in my **4th semester**
 - 💻 Currently learning **C, C++, Python & Java**
 - 🧠 Interested in **Problem Solving, Software Development & Computer Science**
 - 🌱 Always learning and improving
